@@ -1,3 +1,6 @@
+body{
+    width: 90%;
+}
 .carousel-item {
     height: 100vh;
     min-height: 350px;
