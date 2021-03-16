@@ -1,9 +1,11 @@
-body{
-    width: 90%;
+nav {
+    margin-left: 3vh;
+    width: 95%;
 }
+
 .carousel-item {
     height: 100vh;
-    min-height: 350px;
+    min-height: 50%;
     background: no-repeat center center scroll;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -13,6 +15,10 @@ body{
 
 .custom-logo {
     height: 60px;
+}
+
+.mapa {
+    margin-left: 30%;
 }
 
 footer {
